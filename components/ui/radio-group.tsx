@@ -2,6 +2,7 @@
 
 import * as React from "react"
 import { Circle } from "lucide-react"
+import * as RadioGroupPrimitive from "@radix-ui/react-radio-group"  // Import the RadioGroupPrimitive module
 
 import { cn } from "@/lib/utils"
 
